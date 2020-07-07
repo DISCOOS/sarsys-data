@@ -1,0 +1,39 @@
+﻿[
+  {
+    "name": "Speidernes Beredskapsgruppe",
+    "prefix": "647",
+    "divisions": [
+      {
+        "name": "Agder",
+        "suffix": "43",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Sør-Vest",
+        "suffix": "47",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Trøndelag",
+        "suffix": "647",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Vest",
+        "suffix": "50",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Sør-Øst",
+        "suffix": "34",
+        "departments": [],
+        "active": true
+      }
+    ],
+    "active": true
+  }
+]

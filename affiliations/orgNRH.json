@@ -1,0 +1,111 @@
+﻿[
+  {
+    "name": "Norske Redningshunder",
+    "prefix": "63",
+    "divisions": [
+      {
+        "name": "Agder",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Buskerud",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Møre og Romsdal",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Rogaland",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Telemark",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Finnmark",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Oslo, Asker og Bærum",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Troms",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Innlandet",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Romerike",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Trøndelag",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Hordaland",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Sogn og Fjordane",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Vestfold",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Hålogaland",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Østfold og Follo",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      },
+      {
+        "name": "Søndre Nordland",
+        "suffix": "63",
+        "departments": [],
+        "active": true
+      }
+    ],
+    "active": true
+  }
+]

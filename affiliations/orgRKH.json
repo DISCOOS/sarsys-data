@@ -1,0 +1,1713 @@
+﻿[
+  {
+    "name": "Røde Kors Hjelpekorps",
+    "prefix": "61",
+    "divisions": [
+      {
+        "name": "Østfold",
+        "suffix": "110",
+        "departments": [
+          {
+            "name": "Halden",
+            "suffix": "111",
+            "active": true
+          },
+          {
+            "name": "Fredrikstad",
+            "suffix": "112",
+            "active": true
+          },
+          {
+            "name": "Sarpsborg",
+            "suffix": "113",
+            "active": true
+          },
+          {
+            "name": "Moss",
+            "suffix": "114",
+            "active": true
+          },
+          {
+            "name": "Mysen Og Omegn",
+            "suffix": "115",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Oslo",
+        "suffix": "140",
+        "departments": [
+          {
+            "name": "Oslo",
+            "suffix": "140",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Akershus",
+        "suffix": "170",
+        "departments": [
+          {
+            "name": "Nesodden",
+            "suffix": "171",
+            "active": true
+          },
+          {
+            "name": "Oppegård",
+            "suffix": "172",
+            "active": true
+          },
+          {
+            "name": "Ski",
+            "suffix": "173",
+            "active": true
+          },
+          {
+            "name": "Vestby Og Ås",
+            "suffix": "174",
+            "active": true
+          },
+          {
+            "name": "Asker",
+            "suffix": "175",
+            "active": true
+          },
+          {
+            "name": "Børum",
+            "suffix": "176",
+            "active": true
+          },
+          {
+            "name": "Eidsvoll & Hurdal",
+            "suffix": "177",
+            "active": true
+          },
+          {
+            "name": "Nannestad og Gjerdrum",
+            "suffix": "178",
+            "active": true
+          },
+          {
+            "name": "Nittedal",
+            "suffix": "179",
+            "active": true
+          },
+          {
+            "name": "Skedsmo",
+            "suffix": "181",
+            "active": true
+          },
+          {
+            "name": "Ullensaker",
+            "suffix": "182",
+            "active": true
+          },
+          {
+            "name": "Sørum",
+            "suffix": "183",
+            "active": true
+          },
+          {
+            "name": "Aurskog-Håland",
+            "suffix": "184",
+            "active": true
+          },
+          {
+            "name": "Enebakk",
+            "suffix": "185",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Hedmark",
+        "suffix": "210",
+        "departments": [
+          {
+            "name": "Brumunddal",
+            "suffix": "211",
+            "active": true
+          },
+          {
+            "name": "Brøttum",
+            "suffix": "212",
+            "active": true
+          },
+          {
+            "name": "Eidskog",
+            "suffix": "213",
+            "active": true
+          },
+          {
+            "name": "Elverum",
+            "suffix": "214",
+            "active": true
+          },
+          {
+            "name": "Folldal",
+            "suffix": "215",
+            "active": true
+          },
+          {
+            "name": "Hamar",
+            "suffix": "216",
+            "active": true
+          },
+          {
+            "name": "Kongsvinger",
+            "suffix": "217",
+            "active": true
+          },
+          {
+            "name": "Løten",
+            "suffix": "218",
+            "active": true
+          },
+          {
+            "name": "Nes",
+            "suffix": "219",
+            "active": true
+          },
+          {
+            "name": "Os",
+            "suffix": "221",
+            "active": true
+          },
+          {
+            "name": "Rendalen",
+            "suffix": "222",
+            "active": true
+          },
+          {
+            "name": "Sollia",
+            "suffix": "223",
+            "active": true
+          },
+          {
+            "name": "Stor-Elvdal",
+            "suffix": "224",
+            "active": true
+          },
+          {
+            "name": "Trysil",
+            "suffix": "225",
+            "active": true
+          },
+          {
+            "name": "Tynset",
+            "suffix": "226",
+            "active": true
+          },
+          {
+            "name": "Tolga",
+            "suffix": "227",
+            "active": true
+          },
+          {
+            "name": "Åmot",
+            "suffix": "228",
+            "active": true
+          },
+          {
+            "name": "Nes",
+            "suffix": "229",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Oppland",
+        "suffix": "240",
+        "departments": [
+          {
+            "name": "Bagn",
+            "suffix": "241",
+            "active": true
+          },
+          {
+            "name": "Brandbu",
+            "suffix": "242",
+            "active": true
+          },
+          {
+            "name": "Gjøvik",
+            "suffix": "243",
+            "active": true
+          },
+          {
+            "name": "Gran",
+            "suffix": "244",
+            "active": true
+          },
+          {
+            "name": "Hedalen",
+            "suffix": "245",
+            "active": true
+          },
+          {
+            "name": "Jevnaker",
+            "suffix": "246",
+            "active": true
+          },
+          {
+            "name": "Lunner",
+            "suffix": "247",
+            "active": true
+          },
+          {
+            "name": "Redalen",
+            "suffix": "248",
+            "active": true
+          },
+          {
+            "name": "Østre Toten",
+            "suffix": "249",
+            "active": true
+          },
+          {
+            "name": "Brennhaug",
+            "suffix": "251",
+            "active": true
+          },
+          {
+            "name": "Dombås",
+            "suffix": "252",
+            "active": true
+          },
+          {
+            "name": "Etnedal",
+            "suffix": "253",
+            "active": true
+          },
+          {
+            "name": "Fåvang",
+            "suffix": "254",
+            "active": true
+          },
+          {
+            "name": "Gausdal",
+            "suffix": "255",
+            "active": true
+          },
+          {
+            "name": "Grindaheim",
+            "suffix": "256",
+            "active": true
+          },
+          {
+            "name": "Høre",
+            "suffix": "257",
+            "active": true
+          },
+          {
+            "name": "Lesja",
+            "suffix": "258",
+            "active": true
+          },
+          {
+            "name": "Lillehammer",
+            "suffix": "259",
+            "active": true
+          },
+          {
+            "name": "Lom og Bøverdal",
+            "suffix": "261",
+            "active": true
+          },
+          {
+            "name": "Nord-Aurdal",
+            "suffix": "262",
+            "active": true
+          },
+          {
+            "name": "Nord-Fron",
+            "suffix": "263",
+            "active": true
+          },
+          {
+            "name": "Nordre Land",
+            "suffix": "264",
+            "active": true
+          },
+          {
+            "name": "Otta",
+            "suffix": "265",
+            "active": true
+          },
+          {
+            "name": "Skjåk",
+            "suffix": "266",
+            "active": true
+          },
+          {
+            "name": "Skåbu/Espedalen",
+            "suffix": "267",
+            "active": true
+          },
+          {
+            "name": "Sær Fron",
+            "suffix": "268",
+            "active": true
+          },
+          {
+            "name": "Venabygd",
+            "suffix": "269",
+            "active": true
+          },
+          {
+            "name": "Vågå",
+            "suffix": "271",
+            "active": true
+          },
+          {
+            "name": "Øyer og Tretten",
+            "suffix": "272",
+            "active": true
+          },
+          {
+            "name": "Øystre Slidre",
+            "suffix": "273",
+            "active": true
+          },
+          {
+            "name": "Søndre Land",
+            "suffix": "274",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Buskerud",
+        "suffix": "310",
+        "departments": [
+          {
+            "name": "Drammen",
+            "suffix": "311",
+            "active": true
+          },
+          {
+            "name": "Flesberg",
+            "suffix": "312",
+            "active": true
+          },
+          {
+            "name": "Flå",
+            "suffix": "313",
+            "active": true
+          },
+          {
+            "name": "Geilo",
+            "suffix": "314",
+            "active": true
+          },
+          {
+            "name": "Gol og Hemsedal",
+            "suffix": "315",
+            "active": true
+          },
+          {
+            "name": "Hovet Og Hol",
+            "suffix": "316",
+            "active": true
+          },
+          {
+            "name": "Hurum",
+            "suffix": "317",
+            "active": true
+          },
+          {
+            "name": "Kongsberg",
+            "suffix": "318",
+            "active": true
+          },
+          {
+            "name": "Krødsherad",
+            "suffix": "319",
+            "active": true
+          },
+          {
+            "name": "Lier",
+            "suffix": "321",
+            "active": true
+          },
+          {
+            "name": "Modum",
+            "suffix": "322",
+            "active": true
+          },
+          {
+            "name": "Nedre Eiker",
+            "suffix": "323",
+            "active": true
+          },
+          {
+            "name": "Nesbyen",
+            "suffix": "324",
+            "active": true
+          },
+          {
+            "name": "Nore Og Uvdal",
+            "suffix": "325",
+            "active": true
+          },
+          {
+            "name": "Ringerike og Hole",
+            "suffix": "326",
+            "active": true
+          },
+          {
+            "name": "Sigdal",
+            "suffix": "327",
+            "active": true
+          },
+          {
+            "name": "Vats",
+            "suffix": "328",
+            "active": true
+          },
+          {
+            "name": "Øvre Eiker",
+            "suffix": "329",
+            "active": true
+          },
+          {
+            "name": "Ål",
+            "suffix": "331",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Vestfold",
+        "suffix": "340",
+        "departments": [
+          {
+            "name": "Holmestrand",
+            "suffix": "341",
+            "active": true
+          },
+          {
+            "name": "Horten",
+            "suffix": "342",
+            "active": true
+          },
+          {
+            "name": "Lardal",
+            "suffix": "343",
+            "active": true
+          },
+          {
+            "name": "Larvik",
+            "suffix": "344",
+            "active": true
+          },
+          {
+            "name": "Sandefjord",
+            "suffix": "345",
+            "active": true
+          },
+          {
+            "name": "Svelvik",
+            "suffix": "346",
+            "active": true
+          },
+          {
+            "name": "Tjøme og Hvasser",
+            "suffix": "347",
+            "active": true
+          },
+          {
+            "name": "Tønsberg",
+            "suffix": "348",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Telemark",
+        "suffix": "370",
+        "departments": [
+          {
+            "name": "Bamble",
+            "suffix": "371",
+            "active": true
+          },
+          {
+            "name": "Drangedal",
+            "suffix": "372",
+            "active": true
+          },
+          {
+            "name": "Fyresdal",
+            "suffix": "373",
+            "active": true
+          },
+          {
+            "name": "Gvarv",
+            "suffix": "374",
+            "active": true
+          },
+          {
+            "name": "Vinje og Haukeli",
+            "suffix": "375",
+            "active": true
+          },
+          {
+            "name": "Hjartdal",
+            "suffix": "376",
+            "active": true
+          },
+          {
+            "name": "Kragerø",
+            "suffix": "377",
+            "active": true
+          },
+          {
+            "name": "Nissedal",
+            "suffix": "378",
+            "active": true
+          },
+          {
+            "name": "Nome Røde Kors avd.redning/bered",
+            "suffix": "379",
+            "active": true
+          },
+          {
+            "name": "Notodden",
+            "suffix": "381",
+            "active": true
+          },
+          {
+            "name": "Porsgrunn",
+            "suffix": "382",
+            "active": true
+          },
+          {
+            "name": "Rjukan Og Tinn",
+            "suffix": "383",
+            "active": true
+          },
+          {
+            "name": "Seljord",
+            "suffix": "384",
+            "active": true
+          },
+          {
+            "name": "Skien",
+            "suffix": "385",
+            "active": true
+          },
+          {
+            "name": "Tokke",
+            "suffix": "386",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Aust-Agder",
+        "suffix": "410",
+        "departments": [
+          {
+            "name": "Arendal",
+            "suffix": "411",
+            "active": true
+          },
+          {
+            "name": "Froland",
+            "suffix": "412",
+            "active": true
+          },
+          {
+            "name": "Grimstad",
+            "suffix": "413",
+            "active": true
+          },
+          {
+            "name": "Lillesand",
+            "suffix": "414",
+            "active": true
+          },
+          {
+            "name": "Nedre Setesdal",
+            "suffix": "415",
+            "active": true
+          },
+          {
+            "name": "Risør",
+            "suffix": "416",
+            "active": true
+          },
+          {
+            "name": "Tvedestrand",
+            "suffix": "417",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Vest-Agder",
+        "suffix": "440",
+        "departments": [
+          {
+            "name": "Kristiansand",
+            "suffix": "441",
+            "active": true
+          },
+          {
+            "name": "Kvinesdal",
+            "suffix": "442",
+            "active": true
+          },
+          {
+            "name": "Lista",
+            "suffix": "443",
+            "active": true
+          },
+          {
+            "name": "Lyngdal",
+            "suffix": "444",
+            "active": true
+          },
+          {
+            "name": "Mandal",
+            "suffix": "445",
+            "active": true
+          },
+          {
+            "name": "Songdalen",
+            "suffix": "446",
+            "active": true
+          },
+          {
+            "name": "Søgne",
+            "suffix": "447",
+            "active": true
+          },
+          {
+            "name": "Vennesla",
+            "suffix": "448",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Rogaland",
+        "suffix": "470",
+        "departments": [
+          {
+            "name": "Bokn",
+            "suffix": "471",
+            "active": true
+          },
+          {
+            "name": "Bryne",
+            "suffix": "472",
+            "active": true
+          },
+          {
+            "name": "Egersund",
+            "suffix": "473",
+            "active": true
+          },
+          {
+            "name": "Flekkefjord",
+            "suffix": "474",
+            "active": true
+          },
+          {
+            "name": "Gyland",
+            "suffix": "475",
+            "active": true
+          },
+          {
+            "name": "Haugesund",
+            "suffix": "476",
+            "active": true
+          },
+          {
+            "name": "Hjelmeland",
+            "suffix": "477",
+            "active": true
+          },
+          {
+            "name": "Karmøy",
+            "suffix": "478",
+            "active": true
+          },
+          {
+            "name": "Kverneland",
+            "suffix": "479",
+            "active": true
+          },
+          {
+            "name": "Nærbø",
+            "suffix": "481",
+            "active": true
+          },
+          {
+            "name": "Sandnes",
+            "suffix": "482",
+            "active": true
+          },
+          {
+            "name": "Sauda",
+            "suffix": "483",
+            "active": true
+          },
+          {
+            "name": "Sola",
+            "suffix": "484",
+            "active": true
+          },
+          {
+            "name": "Stavanger",
+            "suffix": "485",
+            "active": true
+          },
+          {
+            "name": "Suldal",
+            "suffix": "486",
+            "active": true
+          },
+          {
+            "name": "Tysvær",
+            "suffix": "487",
+            "active": true
+          },
+          {
+            "name": "Vindafjord",
+            "suffix": "488",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Hordaland",
+        "suffix": "510",
+        "departments": [
+          {
+            "name": "Arna og Åsane",
+            "suffix": "511",
+            "active": true
+          },
+          {
+            "name": "Askøy",
+            "suffix": "512",
+            "active": true
+          },
+          {
+            "name": "Austevoll",
+            "suffix": "513",
+            "active": true
+          },
+          {
+            "name": "Bergen",
+            "suffix": "514",
+            "active": true
+          },
+          {
+            "name": "Bømlo",
+            "suffix": "515",
+            "active": true
+          },
+          {
+            "name": "Dale",
+            "suffix": "516",
+            "active": true
+          },
+          {
+            "name": "Eidfjord",
+            "suffix": "517",
+            "active": true
+          },
+          {
+            "name": "Etne",
+            "suffix": "518",
+            "active": true
+          },
+          {
+            "name": "Fana",
+            "suffix": "519",
+            "active": true
+          },
+          {
+            "name": "Finse",
+            "suffix": "521",
+            "active": true
+          },
+          {
+            "name": "Fusa",
+            "suffix": "522",
+            "active": true
+          },
+          {
+            "name": "Jondal",
+            "suffix": "523",
+            "active": true
+          },
+          {
+            "name": "Kinsarvik",
+            "suffix": "524",
+            "active": true
+          },
+          {
+            "name": "Kvinnherad",
+            "suffix": "525",
+            "active": true
+          },
+          {
+            "name": "Laksevåg",
+            "suffix": "526",
+            "active": true
+          },
+          {
+            "name": "Nordhordland",
+            "suffix": "527",
+            "active": true
+          },
+          {
+            "name": "Norheimsund",
+            "suffix": "528",
+            "active": true
+          },
+          {
+            "name": "Odda",
+            "suffix": "529",
+            "active": true
+          },
+          {
+            "name": "Os",
+            "suffix": "531",
+            "active": true
+          },
+          {
+            "name": "Osterøy",
+            "suffix": "532",
+            "active": true
+          },
+          {
+            "name": "Røldal",
+            "suffix": "533",
+            "active": true
+          },
+          {
+            "name": "Samnanger",
+            "suffix": "534",
+            "active": true
+          },
+          {
+            "name": "Sotra",
+            "suffix": "535",
+            "active": true
+          },
+          {
+            "name": "Stord Og Fitjar",
+            "suffix": "536",
+            "active": true
+          },
+          {
+            "name": "Sveio",
+            "suffix": "537",
+            "active": true
+          },
+          {
+            "name": "Tysnes",
+            "suffix": "538",
+            "active": true
+          },
+          {
+            "name": "Tyssedal",
+            "suffix": "539",
+            "active": true
+          },
+          {
+            "name": "Ulvik",
+            "suffix": "541",
+            "active": true
+          },
+          {
+            "name": "Vaksdal",
+            "suffix": "542",
+            "active": true
+          },
+          {
+            "name": "Voss",
+            "suffix": "543",
+            "active": true
+          },
+          {
+            "name": "Vossestrand",
+            "suffix": "544",
+            "active": true
+          },
+          {
+            "name": "Øygarden",
+            "suffix": "545",
+            "active": true
+          },
+          {
+            "name": "Øystese",
+            "suffix": "546",
+            "active": true
+          },
+          {
+            "name": "Ålvik",
+            "suffix": "547",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Sogn og Fjordane",
+        "suffix": "610",
+        "departments": [
+          {
+            "name": "Askvoll",
+            "suffix": "611",
+            "active": true
+          },
+          {
+            "name": "Aurland",
+            "suffix": "612",
+            "active": true
+          },
+          {
+            "name": "Balestrand",
+            "suffix": "613",
+            "active": true
+          },
+          {
+            "name": "Eid",
+            "suffix": "614",
+            "active": true
+          },
+          {
+            "name": "Fjaler",
+            "suffix": "615",
+            "active": true
+          },
+          {
+            "name": "Fjørland",
+            "suffix": "616",
+            "active": true
+          },
+          {
+            "name": "Flora",
+            "suffix": "617",
+            "active": true
+          },
+          {
+            "name": "Førde",
+            "suffix": "618",
+            "active": true
+          },
+          {
+            "name": "Gaular",
+            "suffix": "619",
+            "active": true
+          },
+          {
+            "name": "Gloppen",
+            "suffix": "621",
+            "active": true
+          },
+          {
+            "name": "Gulen",
+            "suffix": "622",
+            "active": true
+          },
+          {
+            "name": "Hafslo",
+            "suffix": "623",
+            "active": true
+          },
+          {
+            "name": "Hornindal",
+            "suffix": "624",
+            "active": true
+          },
+          {
+            "name": "Hyen",
+            "suffix": "625",
+            "active": true
+          },
+          {
+            "name": "Hyllestad",
+            "suffix": "626",
+            "active": true
+          },
+          {
+            "name": "Høyanger",
+            "suffix": "627",
+            "active": true
+          },
+          {
+            "name": "Jølster",
+            "suffix": "628",
+            "active": true
+          },
+          {
+            "name": "Lavik",
+            "suffix": "629",
+            "active": true
+          },
+          {
+            "name": "Leikanger",
+            "suffix": "631",
+            "active": true
+          },
+          {
+            "name": "Luster",
+            "suffix": "632",
+            "active": true
+          },
+          {
+            "name": "Lærdal",
+            "suffix": "633",
+            "active": true
+          },
+          {
+            "name": "Naustdal",
+            "suffix": "634",
+            "active": true
+          },
+          {
+            "name": "Olden",
+            "suffix": "635",
+            "active": true
+          },
+          {
+            "name": "Selje",
+            "suffix": "636",
+            "active": true
+          },
+          {
+            "name": "Sogndal",
+            "suffix": "637",
+            "active": true
+          },
+          {
+            "name": "Stryn",
+            "suffix": "638",
+            "active": true
+          },
+          {
+            "name": "Svelgen Bremanger",
+            "suffix": "639",
+            "active": true
+          },
+          {
+            "name": "Vadheim",
+            "suffix": "641",
+            "active": true
+          },
+          {
+            "name": "Vik",
+            "suffix": "642",
+            "active": true
+          },
+          {
+            "name": "Vikane",
+            "suffix": "643",
+            "active": true
+          },
+          {
+            "name": "Vågsåy",
+            "suffix": "644",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Møre og Romsdal",
+        "suffix": "670",
+        "departments": [
+          {
+            "name": "Brattvåg",
+            "suffix": "671",
+            "active": true
+          },
+          {
+            "name": "Eidsdal-Norddal",
+            "suffix": "672",
+            "active": true
+          },
+          {
+            "name": "Kristiansund og Omegn",
+            "suffix": "673",
+            "active": true
+          },
+          {
+            "name": "Langevåg",
+            "suffix": "674",
+            "active": true
+          },
+          {
+            "name": "Molde",
+            "suffix": "675",
+            "active": true
+          },
+          {
+            "name": "Rauma",
+            "suffix": "676",
+            "active": true
+          },
+          {
+            "name": "Spjelkavik",
+            "suffix": "677",
+            "active": true
+          },
+          {
+            "name": "Stranda",
+            "suffix": "678",
+            "active": true
+          },
+          {
+            "name": "Sunndal",
+            "suffix": "679",
+            "active": true
+          },
+          {
+            "name": "Sykkylven",
+            "suffix": "681",
+            "active": true
+          },
+          {
+            "name": "Sørøyane",
+            "suffix": "682",
+            "active": true
+          },
+          {
+            "name": "Tingvoll",
+            "suffix": "683",
+            "active": true
+          },
+          {
+            "name": "Tresfjord",
+            "suffix": "684",
+            "active": true
+          },
+          {
+            "name": "Vanylven",
+            "suffix": "685",
+            "active": true
+          },
+          {
+            "name": "Vatne og Tennfjord",
+            "suffix": "686",
+            "active": true
+          },
+          {
+            "name": "Volda",
+            "suffix": "687",
+            "active": true
+          },
+          {
+            "name": "Ørsta",
+            "suffix": "688",
+            "active": true
+          },
+          {
+            "name": "Aalesund",
+            "suffix": "689",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Sør-Trøndelag",
+        "suffix": "710",
+        "departments": [
+          {
+            "name": "Agdenes",
+            "suffix": "711",
+            "active": true
+          },
+          {
+            "name": "Bjugn",
+            "suffix": "712",
+            "active": true
+          },
+          {
+            "name": "Budal",
+            "suffix": "713",
+            "active": true
+          },
+          {
+            "name": "Hemne",
+            "suffix": "714",
+            "active": true
+          },
+          {
+            "name": "Hitra/Frøya",
+            "suffix": "715",
+            "active": true
+          },
+          {
+            "name": "Malvik",
+            "suffix": "716",
+            "active": true
+          },
+          {
+            "name": "Meldal",
+            "suffix": "717",
+            "active": true
+          },
+          {
+            "name": "Melhus",
+            "suffix": "718",
+            "active": true
+          },
+          {
+            "name": "Oppdal",
+            "suffix": "719",
+            "active": true
+          },
+          {
+            "name": "Orkdal",
+            "suffix": "721",
+            "active": true
+          },
+          {
+            "name": "Osen",
+            "suffix": "722",
+            "active": true
+          },
+          {
+            "name": "Rennebu",
+            "suffix": "723",
+            "active": true
+          },
+          {
+            "name": "Rindal",
+            "suffix": "724",
+            "active": true
+          },
+          {
+            "name": "Rissa",
+            "suffix": "725",
+            "active": true
+          },
+          {
+            "name": "Røros",
+            "suffix": "726",
+            "active": true
+          },
+          {
+            "name": "Selbu",
+            "suffix": "727",
+            "active": true
+          },
+          {
+            "name": "Singsås",
+            "suffix": "728",
+            "active": true
+          },
+          {
+            "name": "Soknedal",
+            "suffix": "729",
+            "active": true
+          },
+          {
+            "name": "Surnadal",
+            "suffix": "731",
+            "active": true
+          },
+          {
+            "name": "Trondheim",
+            "suffix": "732",
+            "active": true
+          },
+          {
+            "name": "Ørland",
+            "suffix": "733",
+            "active": true
+          },
+          {
+            "name": "Åfjord",
+            "suffix": "734",
+            "active": true
+          },
+          {
+            "name": "Ølen",
+            "suffix": "735",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Nord-Trøndelag",
+        "suffix": "750",
+        "departments": [
+          {
+            "name": "Grong",
+            "suffix": "751",
+            "active": true
+          },
+          {
+            "name": "Inderøy",
+            "suffix": "752",
+            "active": true
+          },
+          {
+            "name": "Kolvereid",
+            "suffix": "753",
+            "active": true
+          },
+          {
+            "name": "Leksvik",
+            "suffix": "754",
+            "active": true
+          },
+          {
+            "name": "Levanger",
+            "suffix": "755",
+            "active": true
+          },
+          {
+            "name": "Lierne",
+            "suffix": "756",
+            "active": true
+          },
+          {
+            "name": "Malm",
+            "suffix": "757",
+            "active": true
+          },
+          {
+            "name": "Namdalseid",
+            "suffix": "758",
+            "active": true
+          },
+          {
+            "name": "Namsos",
+            "suffix": "759",
+            "active": true
+          },
+          {
+            "name": "Namsskogan",
+            "suffix": "761",
+            "active": true
+          },
+          {
+            "name": "Overhalla",
+            "suffix": "762",
+            "active": true
+          },
+          {
+            "name": "Røyrvik",
+            "suffix": "763",
+            "active": true
+          },
+          {
+            "name": "Skorovas",
+            "suffix": "764",
+            "active": true
+          },
+          {
+            "name": "Snåsa",
+            "suffix": "765",
+            "active": true
+          },
+          {
+            "name": "Steinkjer",
+            "suffix": "766",
+            "active": true
+          },
+          {
+            "name": "Stjørdal",
+            "suffix": "767",
+            "active": true
+          },
+          {
+            "name": "Verdal",
+            "suffix": "768",
+            "active": true
+          },
+          {
+            "name": "Vikna",
+            "suffix": "769",
+            "active": true
+          },
+          {
+            "name": "Flatanger",
+            "suffix": "771",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Nordland",
+        "suffix": "810",
+        "departments": [
+          {
+            "name": "Ankenes",
+            "suffix": "811",
+            "active": true
+          },
+          {
+            "name": "Ballangen",
+            "suffix": "812",
+            "active": true
+          },
+          {
+            "name": "Beiarn",
+            "suffix": "813",
+            "active": true
+          },
+          {
+            "name": "Bodø",
+            "suffix": "814",
+            "active": true
+          },
+          {
+            "name": "Brønnøysund",
+            "suffix": "815",
+            "active": true
+          },
+          {
+            "name": "Fauske",
+            "suffix": "816",
+            "active": true
+          },
+          {
+            "name": "Gildeskål",
+            "suffix": "817",
+            "active": true
+          },
+          {
+            "name": "Glomfjord",
+            "suffix": "818",
+            "active": true
+          },
+          {
+            "name": "Hadsel",
+            "suffix": "819",
+            "active": true
+          },
+          {
+            "name": "Hattfjelldal",
+            "suffix": "821",
+            "active": true
+          },
+          {
+            "name": "Lødingen",
+            "suffix": "822",
+            "active": true
+          },
+          {
+            "name": "Narvik",
+            "suffix": "823",
+            "active": true
+          },
+          {
+            "name": "Rana",
+            "suffix": "824",
+            "active": true
+          },
+          {
+            "name": "Saltdal",
+            "suffix": "825",
+            "active": true
+          },
+          {
+            "name": "Sandnessjøen",
+            "suffix": "826",
+            "active": true
+          },
+          {
+            "name": "Sortland",
+            "suffix": "827",
+            "active": true
+          },
+          {
+            "name": "Steigen",
+            "suffix": "828",
+            "active": true
+          },
+          {
+            "name": "Sulitjelma",
+            "suffix": "829",
+            "active": true
+          },
+          {
+            "name": "Svo",
+            "suffix": "831",
+            "active": true
+          },
+          {
+            "name": "Tjeldsund",
+            "suffix": "832",
+            "active": true
+          },
+          {
+            "name": "Vefsn",
+            "suffix": "833",
+            "active": true
+          },
+          {
+            "name": "Vestvågøy",
+            "suffix": "834",
+            "active": true
+          },
+          {
+            "name": "Øksnes",
+            "suffix": "835",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Troms",
+        "suffix": "840",
+        "departments": [
+          {
+            "name": "Balsfjord",
+            "suffix": "841",
+            "active": true
+          },
+          {
+            "name": "Bardu",
+            "suffix": "842",
+            "active": true
+          },
+          {
+            "name": "Berg",
+            "suffix": "843",
+            "active": true
+          },
+          {
+            "name": "Birtavarre",
+            "suffix": "844",
+            "active": true
+          },
+          {
+            "name": "Finnsnes",
+            "suffix": "845",
+            "active": true
+          },
+          {
+            "name": "Harstad",
+            "suffix": "846",
+            "active": true
+          },
+          {
+            "name": "Kvæfjord",
+            "suffix": "847",
+            "active": true
+          },
+          {
+            "name": "Longyearbyen",
+            "suffix": "848",
+            "active": true
+          },
+          {
+            "name": "Lyngen",
+            "suffix": "849",
+            "active": true
+          },
+          {
+            "name": "Skånland",
+            "suffix": "851",
+            "active": true
+          },
+          {
+            "name": "Tromsø",
+            "suffix": "852",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Finnmark",
+        "suffix": "870",
+        "departments": [
+          {
+            "name": "Alta",
+            "suffix": "871",
+            "active": true
+          },
+          {
+            "name": "Hammerfest",
+            "suffix": "872",
+            "active": true
+          },
+          {
+            "name": "Havøysund",
+            "suffix": "873",
+            "active": true
+          },
+          {
+            "name": "Kara",
+            "suffix": "874",
+            "active": true
+          },
+          {
+            "name": "Kautokeino",
+            "suffix": "875",
+            "active": true
+          },
+          {
+            "name": "Kjøllefjord",
+            "suffix": "876",
+            "active": true
+          },
+          {
+            "name": "Lakselv",
+            "suffix": "877",
+            "active": true
+          },
+          {
+            "name": "Nesseby",
+            "suffix": "878",
+            "active": true
+          },
+          {
+            "name": "Nordkapp",
+            "suffix": "879",
+            "active": true
+          },
+          {
+            "name": "Sør-Varanger",
+            "suffix": "881",
+            "active": true
+          },
+          {
+            "name": "Vadsø",
+            "suffix": "882",
+            "active": true
+          },
+          {
+            "name": "Vardø",
+            "suffix": "883",
+            "active": true
+          }
+        ],
+        "active": true
+      }
+
+    ],
+    "active": true
+  }
+]

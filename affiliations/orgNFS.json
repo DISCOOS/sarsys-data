@@ -1,0 +1,674 @@
+﻿[
+  {
+    "name": "Norsk Folkehjelp",
+    "prefix": "62",
+    "divisions": [
+      {
+        "name": "Akershus",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Fetsund",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Skedsmo",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Asker og Bærum",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Nes Romerike",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sørum og Ullensaker",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Aust-Agder",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Moland",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Vegårshei",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Åmli",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Buskerud",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Drammen og omegn",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Kongsberg",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Numedal",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Hønefoss og omegn",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Drammen og Sande",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Finnmark",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Berlevåg",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Hammerfest",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sør-Varanger",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Hasvik",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Hedmark",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Nord Østerdal",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Hamar",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Kongsvinger",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Moelv og omegn",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Odal",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Rena",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Stange/Løten",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Grue",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Elverum",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Hordaland",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Askøy",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Bergen",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Os",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sanitet Haukeland",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sunnhordland",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sol ungdom Bergen",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Møre og Romsdal",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Nesset",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Ålesund og omegn",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Nordmøre",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Nordland",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Bodø",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Korgen",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Mo",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Mosjøen",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Ofoten",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Andøy",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Vesterålen",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Meløy",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Oppland",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Hadeland",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Lillehammer",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Vestre Toten Gjøvik",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Østre Toten",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Studentgruppe Gjøvik",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Oslo",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Oslo",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Blindern",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Bislett",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Follo",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sol ungdom Kristiania",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Kristiania",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sentralt",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Løren og omegn",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Rogaland",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Gjesdal",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Haugaland",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Jæren",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sandnes",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Stavanger",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Strand og Forsand",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sol ungdom Ullandhaug",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Hå",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Sogn og Fjordane",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Årdal",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sunnfjord",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Svalbard",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Svalbard",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Telemark",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Gransherad og Notodden",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Kragerø",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Grenland",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Tokke og omegn",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Rauland Skredgruppe",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Troms",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Harstad",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Tromsø",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Lenangen",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sol ungdom Tromsø",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sør-Tromsøya",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Midt-Troms",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Nordreisa",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Kvænangen",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Arnøya",
+            "suffix": "62",
+            "active": true
+          }
+
+        ],
+        "active": true
+      },
+      {
+        "name": "Trøndelag",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Malm",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Melhus",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Meråker",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Namsos",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Nardo",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Oppdal",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Steinkjer",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Stjørdal",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Trondheim",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sanitet Trondheim",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Tydal",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sol ungdom Nidaros",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Innherred",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Hitra og Frøya",
+            "suffix": "62",
+            "active": true
+          }
+
+        ],
+        "active": true
+      },
+      {
+        "name": "Vest-Agder",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Kristiansand",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Mandal",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sol ungdom Gimlemoen",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Vestfold",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Sande",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Haukerød",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Horten",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Larvik",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "name": "Østfold",
+        "suffix": "62",
+        "departments": [
+          {
+            "name": "Askim",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Fredrikstad",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Sarpsborg og Halden",
+            "suffix": "62",
+            "active": true
+          },
+          {
+            "name": "Nedre Glomma",
+            "suffix": "62",
+            "active": true
+          }
+        ],
+        "active": true
+      }
+    ],
+    "active": true
+  }
+]
